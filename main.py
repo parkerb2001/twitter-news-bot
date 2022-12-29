@@ -41,7 +41,7 @@ def main():
             lastTitle = title
         except Exception as e:
             print(e)
-        time.sleep(7200)
+        time.sleep(14400)
 
 
 main()
